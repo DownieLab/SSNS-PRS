@@ -1,0 +1,14 @@
+*.bk
+*.bim
+*.bed
+*.fam
+*.rds
+*.vcf
+*.vcf.gz
+*.sbk
+checkpoint_*.rds
+*.sscore
+*.txt.gz
+*.log
+*.err
+*.out
